@@ -1,0 +1,89 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  height: 350px;
+  background-color:rgb(196, 194, 193);
+  margin-left: 35px;
+  margin-top: 100px;
+}
+.card1{
+  
+  width: 350px;
+  height: 80%;
+  background-color: dodgerblue;
+  margin-top: 35px;
+  line-height: 75px;
+  
+  border-radius: 5px;
+}
+.card_items{
+  margin-left: 20px;
+}
+.card2{
+  line-height: 75px;
+  width: 350px;
+  height: 80%;
+  background-color: cornflowerblue;
+  margin-top: 35px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+.card3{
+  line-height: 75px;
+  width: 350px;
+  height: 80%;
+  background:  linear-gradient(90deg, rgba(41,166,102,1) 0%, rgba(34,145,79,1) 30%, rgba(29,129,94,0.5718662464985995) 98%);
+  margin-top: 35px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+.navbar {
+  
+
+ 
+  color:white;
+  font-size: 16px;
+  font-weight: bold;
+  
+
+}  
+
+.navbar_second{
+  
+  color: black;
+  color:white;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.navbar-th{
+   
+  color: black;
+  color:white;
+  font-size: 16px;
+  font-weight: bold;
+}
+.stars{
+  margin-top: 20px;
+  line-height: 40px; 
+} 
+.stars i{
+  color: yellow;
+}
+.stars h1{
+  
+  font-weight: bold;
+  color: white;
+}
+.end p{
+  color: rgb(221, 212, 212);
+  font-weight: bold;  
+}
+.end{
+  margin-top: 45px;
+}
